@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab4/1.0.0": {
+        "dependencies": {
+          "Internet": "1.0.0"
+        },
+        "runtime": {
+          "Lab4.dll": {}
+        }
+      },
+      "Internet/1.0.0": {
+        "runtime": {
+          "Internet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Internet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

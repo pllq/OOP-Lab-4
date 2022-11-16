@@ -1,0 +1,12 @@
+G:\Studying\2) NAU (01.09.2021 - XX.06.2025)\NAU\Homeworks\Second grade\1st Semester\1) OOP\4) Lab 3.4\Lab4\Internet\bin\Debug\net6.0\Internet.deps.json
+G:\Studying\2) NAU (01.09.2021 - XX.06.2025)\NAU\Homeworks\Second grade\1st Semester\1) OOP\4) Lab 3.4\Lab4\Internet\bin\Debug\net6.0\Internet.dll
+G:\Studying\2) NAU (01.09.2021 - XX.06.2025)\NAU\Homeworks\Second grade\1st Semester\1) OOP\4) Lab 3.4\Lab4\Internet\bin\Debug\net6.0\Internet.pdb
+G:\Studying\2) NAU (01.09.2021 - XX.06.2025)\NAU\Homeworks\Second grade\1st Semester\1) OOP\4) Lab 3.4\Lab4\Internet\obj\Debug\net6.0\Internet.csproj.AssemblyReference.cache
+G:\Studying\2) NAU (01.09.2021 - XX.06.2025)\NAU\Homeworks\Second grade\1st Semester\1) OOP\4) Lab 3.4\Lab4\Internet\obj\Debug\net6.0\Internet.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studying\2) NAU (01.09.2021 - XX.06.2025)\NAU\Homeworks\Second grade\1st Semester\1) OOP\4) Lab 3.4\Lab4\Internet\obj\Debug\net6.0\Internet.AssemblyInfoInputs.cache
+G:\Studying\2) NAU (01.09.2021 - XX.06.2025)\NAU\Homeworks\Second grade\1st Semester\1) OOP\4) Lab 3.4\Lab4\Internet\obj\Debug\net6.0\Internet.AssemblyInfo.cs
+G:\Studying\2) NAU (01.09.2021 - XX.06.2025)\NAU\Homeworks\Second grade\1st Semester\1) OOP\4) Lab 3.4\Lab4\Internet\obj\Debug\net6.0\Internet.csproj.CoreCompileInputs.cache
+G:\Studying\2) NAU (01.09.2021 - XX.06.2025)\NAU\Homeworks\Second grade\1st Semester\1) OOP\4) Lab 3.4\Lab4\Internet\obj\Debug\net6.0\Internet.dll
+G:\Studying\2) NAU (01.09.2021 - XX.06.2025)\NAU\Homeworks\Second grade\1st Semester\1) OOP\4) Lab 3.4\Lab4\Internet\obj\Debug\net6.0\refint\Internet.dll
+G:\Studying\2) NAU (01.09.2021 - XX.06.2025)\NAU\Homeworks\Second grade\1st Semester\1) OOP\4) Lab 3.4\Lab4\Internet\obj\Debug\net6.0\Internet.pdb
+G:\Studying\2) NAU (01.09.2021 - XX.06.2025)\NAU\Homeworks\Second grade\1st Semester\1) OOP\4) Lab 3.4\Lab4\Internet\obj\Debug\net6.0\ref\Internet.dll
